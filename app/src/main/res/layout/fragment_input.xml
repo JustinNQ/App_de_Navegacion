@@ -7,7 +7,6 @@
     android:padding="24dp"
     android:background="@color/backgroundColor">
 
-    <!-- Campo de texto con Material Design -->
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/text_input_layout"
         android:layout_width="0dp"
@@ -28,7 +27,6 @@
             android:textColorHint="@color/colorPrimaryDark"/>
     </com.google.android.material.textfield.TextInputLayout>
 
-    <!-- Botón con estilo Material3 -->
     <com.google.android.material.button.MaterialButton
         android:id="@+id/button_send"
         android:layout_width="wrap_content"
